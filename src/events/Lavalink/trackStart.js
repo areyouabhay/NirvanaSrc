@@ -237,15 +237,6 @@ module.exports = async (client, player, track, payload) => {
       i.editReply({ content: `Skipped The Song!`, ephemeral: true });
       if (player.queue.length === 1) {
         collector.stop();
-        await rest
-          .put(`/channels/${vc.id}/voice-status`, {
-            body: {
-              status: ``,
-            },
-          })
-          .catch((err) => {
-            console.error(err);
-          });
       }
     }
 
