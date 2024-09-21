@@ -20,15 +20,6 @@ module.exports = {
         let vc = guild.channels.cache.get(player.voiceChannel);
         player.destroy();
 
-        const rest = new REST({
-            version: "10"
-        }).setToken(client.config.token);
-        await rest.put(`/channels/${vc.id}/voice-status`, {
-            body: {
-                status: ``,
-            },
-        }).catch((err) => { console.error(err) });
-
         let embed = new EmbedBuilder()
             .setColor(message.client.embedColor)
             .setDescription(`Power Off! Left the voice channel & cleared the queue.`)
