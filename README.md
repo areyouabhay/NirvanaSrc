@@ -5,11 +5,31 @@
 </p>
 
 # Nirvana
+
 [![node](https://img.shields.io/badge/node-v20.11.1-green)](#) [![discord.js](https://img.shields.io/badge/discord.js-latest-blue)](#) [![license](https://img.shields.io/badge/license-MIT-red)](#) [![discord](https://img.shields.io/discord/987749138743582811?color=7289da&logo=discord&logoColor=white)](https://discord.gg/9bWCU6VPEM)
 
-Nirvana A Quality Music Bot which Makes You Feel the Music and it's Beats
+Nirvana A Quality Music Bot which Makes You Feel the Music and it's Beats. Nirvana is your go-to music bot for instant tunes and personalized playlists. Just tell it what you want to hear, and let the music flow effortlessly!
+
 </div>
 
+## 💡 Getting Started
+
+Add Nirvana to your server : [Invite Nirvana](https://discord.com/oauth2/authorize?client_id=1044688839005966396&permissions=8&scope=bot)
+
 ---
+
+## 📢 Support
+
+If you encounter any issues or have suggestions, join our support server: [Support Server](https://discord.gg/9bWCU6VPEM)
+
+---
+
+## ⚖️ License
+
+Nirvana is licensed under the (MIT). For more details, see the [LICENSE](./LICENSE) file.
+
+---
+
 <div align="center">
+Thank you for choosing Nirvana! Taste the Opulence of Harmonic Brilliance. 
 </div>
