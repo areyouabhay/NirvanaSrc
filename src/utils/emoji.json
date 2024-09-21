@@ -1,0 +1,22 @@
+{
+	"tick": "<:nirvana_success:1164648426349269012>",
+	"cross": "<:nirvana_deny:1164648419818733669>",
+	"autoplay": "<:nirvana_autoplay:1163187422402723960>",
+	"previous": "<:nirvana_prev:1163187288038191254>",
+	"play": "<:play:1163187271277748246>",
+	"skip": "<:nirvana_skip:1163187278047363174>",
+	"pause": "<:nirvana_pause:1163187414412570655>",
+	"shuffle": "<:nirvana_shuffle:1163187393122275429>",
+	"loop": "<:nirvana_loop:1163187399187239023>",
+	"volup": "<:nirvana_vup:1163193926354739210>",
+	"voldown": "<:nirvana_voldown:1163187350415872041>",
+	"stop": "<:nirvana_stop:1163187408360194238>",
+	"like": "<:nirvana_like:1163187431579844638>",
+	"nirvana": "<:nirvana_support:1148528540841680977>",
+	"add": "<:nirvana_add:1164894554546241618>",
+	"remove": "<:nirvana_remove:1164894546329604126>",
+	"error": "<:nirvana_error:1164896717439766578>",
+	"invite": "<:nirvana_link:1148528840654716969>",
+	"vote": "<:nirvana_top_gg:1148563960921071706>",
+	"support": "<:nirvana_support:1148528540841680977>"
+}
